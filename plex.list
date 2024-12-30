@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,amazonaws.com,DIRECT
 DOMAIN-SUFFIX,plex.direct,DIRECT
 
 # > 代理规则
-DOMAIN,downloads.plex.tv,PLEX
-DOMAIN,metadata-static.plex.tv,PLEX
-DOMAIN,metadata.provider.plex.tv,PLEX
-DOMAIN,meta.plex.tv,PLEX
+DOMAIN,downloads.plex.tv,📺 PLEX
+DOMAIN,metadata-static.plex.tv,📺 PLEX
+DOMAIN,metadata.provider.plex.tv,📺 PLEX
+DOMAIN,meta.plex.tv,📺 PLEX
