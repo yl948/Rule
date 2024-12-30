@@ -1,1 +1,12 @@
-111
+# NAME: Plex
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 2
+# TOTAL: 8
+# surge的规则集
+DOMAIN,v4.plex.tv,DIRECT
+DOMAIN-SUFFIX,amazonaws.com,DIRECT
+DOMAIN-SUFFIX,plex.direct,DIRECT 
+DOMAIN,downloads.plex.tv,🎬 PLEX服务
+DOMAIN,metadata-static.plex.tv,🎬 PLEX服务
+DOMAIN,metadata.provider.plex.tv,🎬 PLEX服务
+DOMAIN,meta.plex.tv,🎬 PLEX服务
