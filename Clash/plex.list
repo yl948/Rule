@@ -1,1 +1,11 @@
-111
+# NAME: Plex
+# AUTHOR: yao
+# REPO: https://github.com/yl948/Rule
+# UPDATED: 2024-02-27
+# DOMAIN-KEYWORD: 4
+# TOTAL: 4
+# 代理规则 - 这些域名走 Plex 代理组
+DOMAIN-KEYWORD,downloads.plex.tv
+DOMAIN-KEYWORD,metadata-static.plex.tv
+DOMAIN-KEYWORD,metadata.provider.plex.tv
+DOMAIN-KEYWORD,meta.plex.tv
