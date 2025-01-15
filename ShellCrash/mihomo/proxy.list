@@ -1,1 +1,34 @@
-11111
+# Clash 规则配置文件 - 代理规则
+# 规则格式说明：
+# 1. DOMAIN-SUFFIX：域名后缀匹配
+#    例如：DOMAIN-SUFFIX,google.com 会匹配 *.google.com 的所有子域名
+#
+# 2. DOMAIN-KEYWORD：域名关键词匹配
+#    例如：DOMAIN-KEYWORD,google 会匹配包含 google 的所有域名
+#
+# 3. DOMAIN：精确域名匹配
+#    例如：DOMAIN,www.google.com 只匹配 www.google.com
+#
+# 4. IP-CIDR：IP段匹配
+#    例如：IP-CIDR,104.16.0.0/12 匹配 Cloudflare 的 IP 范围
+#
+# 5. SRC-IP-CIDR：源IP段匹配
+#    例如：SRC-IP-CIDR,192.168.1.201/32 匹配来源于该IP的请求
+#
+# 6. DST-PORT：目标端口匹配
+#    例如：DST-PORT,80 匹配访问80端口的请求
+#
+# 7. SRC-PORT：源端口匹配
+#    例如：SRC-PORT,7777 匹配来源于7777端口的请求
+#
+# 8. GEOIP：IP归属地匹配
+#    例如：GEOIP,CN 匹配中国大陆IP
+#
+# 9. MATCH：全匹配
+#    例如：MATCH 匹配所有规则
+#
+# 10. 通配符说明：
+#     - '.' 匹配单个任意字符
+#     - '*' 匹配零个或多个任意字符
+#     例如：'.blogger.com' 或 '*.*.microsoft.com'
+
