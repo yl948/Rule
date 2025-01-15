@@ -11,7 +11,7 @@ DOMAIN,downloads.plex.tv
 DOMAIN,metadata-static.plex.tv
 DOMAIN,metadata.provider.plex.tv
 DOMAIN,meta.plex.tv
-DOMAIN,api.github.com
+DOMAIN,app.plex.tv
 
 # PT 站点规则
 DOMAIN-SUFFIX,hhan.club
@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,hongxingdl.com
+
+# github
+DOMAIN,api.github.com
