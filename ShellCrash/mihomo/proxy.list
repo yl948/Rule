@@ -32,8 +32,10 @@
 #     - '*' 匹配零个或多个任意字符
 #     例如：'.blogger.com' 或 '*.*.microsoft.com'
 
-#plex代理地址
+#plex代理域名组
 DOMAIN,downloads.plex.tv
 DOMAIN,metadata-static.plex.tv
 DOMAIN,metadata.provider.plex.tv
 DOMAIN,meta.plex.tv
+#pt代理域名组
+DOMAIN-SUFFIX,hhan.club
