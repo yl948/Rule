@@ -14,3 +14,8 @@ DOMAIN,meta.plex.tv
 
 # PT 站点规则
 DOMAIN-SUFFIX,hhan.club
+
+# 其他
+DOMAIN,githubusercontent.com
+DOMAIN,github.com
+DOMAIN,docker.com
