@@ -16,6 +16,7 @@ DOMAIN,meta.plex.tv
 DOMAIN-SUFFIX,hhan.club
 
 # 其他
-DOMAIN,githubusercontent.com
-DOMAIN,github.com
-DOMAIN,docker.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,hongxingdl.com
