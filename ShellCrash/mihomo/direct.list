@@ -1,0 +1,5 @@
+# 直连列表
+DOMAIN-SUFFIX,example1.com
+DOMAIN-SUFFIX,example2.com
+DOMAIN-KEYWORD,example
+IP-CIDR,192.168.1.0/24 
