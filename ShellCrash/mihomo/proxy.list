@@ -25,3 +25,6 @@ DOMAIN-SUFFIX,hongxingdl.com
 
 # github
 DOMAIN,api.github.com
+
+#trakt
+DOMAIN-SUFFIX,trakt.tv
