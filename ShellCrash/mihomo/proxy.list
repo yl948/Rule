@@ -23,7 +23,9 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,hongxingdl.com
-
+DOMAIN,api.tmdb.org
+DOMAIN,api.github.com
+DOMAIN,www.themoviedb.org
 # github
 DOMAIN,api.github.com
 
