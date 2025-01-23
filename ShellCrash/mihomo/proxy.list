@@ -32,4 +32,4 @@ DOMAIN,api.github.com
 DOMAIN-SUFFIX,trakt.tv
 
 #直连规则
-DOMAIN,www.themoviedb.org, 🎯 全球直连
+DOMAIN,www.themoviedb.org,🎯 全球直连
