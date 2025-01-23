@@ -23,10 +23,13 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,hongxingdl.com
-DOMAIN,api.tmdb.org
+DOMAIN-SUFFIX,tmdb.org
 
 # github
 DOMAIN,api.github.com
 
 # trakt
 DOMAIN-SUFFIX,trakt.tv
+
+# 直连规则
+DOMAIN,www.themoviedb.org,🎯 全球直连
