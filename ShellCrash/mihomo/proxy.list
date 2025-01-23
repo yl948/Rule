@@ -16,6 +16,7 @@ DOMAIN,app.plex.tv
 # PT 站点规则
 DOMAIN-SUFFIX,hhan.club
 DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,springsunday.net
 
 # 其他
 DOMAIN-SUFFIX,githubusercontent.com
