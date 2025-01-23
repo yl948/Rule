@@ -24,12 +24,10 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,tmdb.org
-
+DOMAIN,www.themoviedb.org
 # github
 DOMAIN,api.github.com
 
 # trakt
 DOMAIN-SUFFIX,trakt.tv
 
-# 直连规则
-DOMAIN,www.themoviedb.org,🎯 全球直连
