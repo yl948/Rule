@@ -1,10 +1,7 @@
 # 规则名称: 代理规则
 # 规则作者: anxxy
 # 规则来源: https://github.com/yl948/Rule
-# 更新时间: 2024-01-01
-# 域名规则数: 4
-# 域名后缀数: 1
-# 规则总数: 5
+# 更新时间: 2024-03-02
 
 # Plex 媒体服务器规则
 DOMAIN,downloads.plex.tv
