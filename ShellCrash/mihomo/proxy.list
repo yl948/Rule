@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,themoviedb.org
 # github
 DOMAIN,api.github.com
 
+pt1
+DOMAIN,tracker.ptvicomo.net
+
 # trakt
 DOMAIN-SUFFIX,trakt.tv
 
