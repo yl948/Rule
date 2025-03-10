@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,ptvicomo.net
 DOMAIN-SUFFIX,avistaz.to
+DOMAIN-SUFFIX,fsm.name
 
 # 其他
 DOMAIN-SUFFIX,githubusercontent.com
@@ -30,6 +31,9 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,avbase.net
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javlibrary.com
 
 # github
 DOMAIN,api.github.com
