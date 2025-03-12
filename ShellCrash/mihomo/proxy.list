@@ -12,6 +12,7 @@ DOMAIN,app.plex.tv
 
 #tmdb
 DOMAIN,api.themoviedb.org
+DOMAIN,image.tmdb.org
 
 # PT 站点规则
 DOMAIN-SUFFIX,hhan.club
