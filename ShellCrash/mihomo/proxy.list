@@ -28,6 +28,9 @@ DOMAIN-SUFFIX,ptvicomo.net
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,fsm.name
 
+# pt
+DOMAIN,tracker.ptvicomo.net
+
 # 其他
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.com
