@@ -10,9 +10,10 @@ DOMAIN,metadata.provider.plex.tv
 DOMAIN,meta.plex.tv
 DOMAIN,app.plex.tv
 
-#tmdb
+#tmdb mp
 DOMAIN,api.themoviedb.org
 DOMAIN,image.tmdb.org
+DOMAIN,webservice.fanart.tv
 
 # PT 站点规则
 DOMAIN-SUFFIX,hhan.club
